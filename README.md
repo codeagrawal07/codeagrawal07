@@ -14,16 +14,11 @@
 
 <br/><br/>
 
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abhishek07122002/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:er.abhishek.agrawal.ai@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/codeagrawal07/"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=6d28d9&label=STARS&logo=github"/>
 
 </div>
 
@@ -249,77 +244,11 @@ Working on an AI-Powered News Intelligence Platform built on Retrieval-Augmented
 
 **IBM**
 
-<img src="https://img.shields.io/badge/IBM-RAG%20%26%20Agentic%20AI%20Specialization-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<a href="https://www.coursera.org/account/accomplishments/specialization/2K4O7R5KCFUW"><img src="https://img.shields.io/badge/IBM-RAG%20%26%20Agentic%20AI%20Specialization-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/></a>
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python%20%7C%20Score%3A%2091%2F100-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/your-leetcode-username">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg-username">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/your-hackerrank-username">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/your-codechef-username">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="60%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7&row=1" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<a href="https://drive.google.com/file/d/15VQkrmoM6O4TyIcaN0MMLz4BJJb6f9HA/view"><img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python%20%7C%20Score%3A%2091%2F100-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 
 </div>
 
@@ -354,9 +283,8 @@ Open To:
 <div align="center">
 
 <a href="mailto:er.abhishek.agrawal.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhishek07122002/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/codeagrawal07/"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
