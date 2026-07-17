@@ -121,25 +121,6 @@ I approach engineering with a **product mindset** — every pipeline, API, and m
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🗞️ AI-Powered News Intelligence Platform (RAG-based)</b></summary>
-<br/>
-
-A production RAG platform aggregating real-time news from 10+ sources with natural-language query capability and audio summarization.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | Python, BeautifulSoup, Selenium, LangChain, FAISS, ChromaDB, Edge TTS |
-| **Scale** | 100K+ articles indexed, 10+ live sources aggregated |
-| **Performance** | 40% reduction in average query response time |
-| **Security** | User-Agent rotation, adaptive anti-bot request handling |
-| **Impact** | 80% reduction in manual data collection effort, 95%+ crawler uptime |
-| **Repository** | [`View Repository`](https://github.com/your-github-username/news-intelligence-rag) |
-
-Built end-to-end ETL pipelines to continuously ingest and normalize real-time news, then layered a RAG architecture with vector embeddings to enable semantic search. Integrated a LangChain-powered conversational interface for natural-language querying and Edge TTS for accessible audio summaries — meaningfully improving both data pipeline reliability and end-user engagement.
-
-</details>
-
-<details>
 <summary><b>✏️ SketchSolver — AI-Powered Sketch Calculator</b></summary>
 <br/>
 
@@ -152,7 +133,7 @@ A canvas-based web app that converts handwritten math equations and physics diag
 | **Performance** | High-accuracy handwritten input parsing via multimodal LLM |
 | **Security** | Sandboxed input handling for canvas submissions |
 | **Impact** | Bridged physical problem-solving with digital computation |
-| **Repository** | [`View Repository`](https://github.com/your-github-username/sketchsolver) |
+| **Repository** | [`View Repository`](https://github.com/codeagrawal07/AI-Powered-Sketch-Calculator) |
 
 Designed a browser canvas interface where users freely sketch equations or diagrams. Applied one-shot prompting strategies to a multimodal LLM to significantly improve reasoning quality and solution accuracy on handwritten mathematical input.
 
@@ -171,7 +152,7 @@ A RAG-powered application enabling natural-language Q&A across multiple PDFs sim
 | **Performance** | Fast semantic retrieval via ChromaDB indexing |
 | **Security** | Local document processing, no external data leakage |
 | **Impact** | Eliminated manual search through dense research papers |
-| **Repository** | [`View Repository`](https://github.com/your-github-username/multi-pdf-chat) |
+| **Repository** | [`View Repository`](https://github.com/codeagrawal07/Multi-PDF-Chat-Application) |
 
 Combined Google Gemini's contextual reasoning with ChromaDB's fast vector retrieval to deliver precise, source-grounded answers across arbitrarily large sets of uploaded PDFs, streamlining research workflows.
 
@@ -190,7 +171,7 @@ An end-to-end pipeline that transforms YouTube videos into concise summaries and
 | **Performance** | Up to 70% reduction in content review time |
 | **Security** | Read-only transcript extraction |
 | **Impact** | Converted passive video learning into active, assessable learning |
-| **Repository** | [`View Repository`](https://github.com/your-github-username/gentube) |
+| **Repository** | [`View Repository`](https://github.com/codeagrawal07/GenTube-AI) |
 
 Extracted video transcripts programmatically and used an LLM to auto-generate concise summaries alongside multiple-choice quizzes — turning passive video consumption into a measurable, active learning workflow.
 
