@@ -9,8 +9,8 @@
 <br/>
 
 <img src="https://img.shields.io/badge/CGPA-8.17%2F10-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graphic%20Era%20Hill%20University-Dehradun-4C1D95?style=for-the-badge&logo=googlecampus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://gehu.ac.in/"><img src="https://img.shields.io/badge/Graphic%20Era%20Hill%20University-Dehradun-4C1D95?style=for-the-badge&logo=googlecampus&logoColor=white"/></a>
+<a href="https://maps.apple.com/place?place-id=IF55698A7570C3069&address=Bell+Road%2C+Clement+Town%2C+Dehradun%2C+Uttarakhand+248002%2C+India&coordinate=30.273378%2C77.999817&name=Graphic+Era+Hill+University&_provider=9902"><img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/></a>
 
 <br/><br/>
 
