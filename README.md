@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Abhishek%20Agrawal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20RAG%20Systems&descAlignY=52&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+RAG+%26+LLM+Systems;Python+%7C+LangChain+%7C+LangGraph+%7C+FAISS;ETL+Pipelines+%40+Gr8+Logics;B.Tech+CSE+%40+Graphic+Era+Hill+University" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
